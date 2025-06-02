@@ -1,0 +1,6 @@
+
+{
+  "name": "mikrotik/ticket",
+  "description": "Génération de tickets WiFi via API MikroTik",
+  "require": {}
+}
